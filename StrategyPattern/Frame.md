@@ -7,7 +7,3 @@
 
 假设我们是V社的开发员工，我们在开发CS这款游戏，游戏内有很多武器，武器，简而言之是可以造成伤害的。
 但是不同的武器使用的方式不太相同。这里我想使用策略模式去模拟一下去实现。不过现在还不知道能不能实现出来。
-
-
-git config --global user.name "zhaoshihao"
-git config --global user.email 17215463349@qq.com
