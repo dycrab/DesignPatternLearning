@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectIdCacheService">
     <option name="gitmmUrl" value="" />
-    <option name="lastModifyFilePath" value="$PROJECT_DIR$/DecoratorPattern/src/Main.java" />
+    <option name="lastModifyFilePath" value="$PROJECT_DIR$/ObserverPattern/src/workers/Work1.java" />
     <option name="lastModifyProjectUrl" value="https://github.com/dycrab/DesignPatternLearning.git" />
   </component>
 </project>
